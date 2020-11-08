@@ -18,7 +18,7 @@ export default {
   components: {ImageVerifyCode},
   data () {
     return {
-      url: 'http://192.168.0.107:8081/verifyCode/image' //换成自己对应的验证码地址
+      url: 'https://xxxx' //换成自己对应的验证码地址
     }
   }
 }

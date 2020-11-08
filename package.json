@@ -1,7 +1,7 @@
 {
   "name": "vue-image-verifycode",
   "description": "An Image VerifyCode Component based on Vue.js and Element UI",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "wangxiaoyi <wy15@foxmail.com>",
   "license": "MIT",
   "private": false,
@@ -31,6 +31,10 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxiaoyi3/vue-image-verifycode.git"
   },
   "keywords": [
     "vue",
