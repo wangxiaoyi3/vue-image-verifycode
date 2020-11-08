@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
   <a href="https://github.com/wangxiaoyi3/vue-image-verifycode/releases">
-    <img src="https://img.shields.io/badge/release-v1.0.2-blue" alt="GitHub release">
+    <img src="https://img.shields.io/badge/release-v1.0.3-blue" alt="GitHub release">
   </a>
 </p>
 
