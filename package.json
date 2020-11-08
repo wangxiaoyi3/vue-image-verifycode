@@ -1,7 +1,7 @@
 {
   "name": "vue-image-verifycode",
   "description": "An Image VerifyCode Component based on Vue.js and Element UI",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "wangxiaoyi <wy15@foxmail.com>",
   "license": "MIT",
   "private": false,
