@@ -38,7 +38,7 @@ App.vue
 <vue-image-verifycode :url="url"></vue-image-verifycode>
 ```
 
-``` vue
+``` javascript
 data() {
   return {
      url: 'https://xxxx' //Change to your image URL
