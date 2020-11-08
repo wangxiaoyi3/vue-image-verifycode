@@ -47,7 +47,7 @@ data() {
 ```
 demo
 
-![demo](./demo.png)
+![demo](https://github.com/wangxiaoyi3/vue-image-verifycode/blob/master/demo.png)
 
 ## More detail
 
